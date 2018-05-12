@@ -1,0 +1,25 @@
+_repo: The-Voodoo-Gold-Trail_34442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34442-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Walden, Walter
+    gutenberg_agent_id: '37027'
+    url: http://www.gutenberg.org/2009/agents/37027
+description: ''
+gutenberg_issued: '2010-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34442'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Treasure troves -- Fiction'
+title: The Voodoo Gold Trail
+url: http://www.gutenberg.org/ebooks/34442
